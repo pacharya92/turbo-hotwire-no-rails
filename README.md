@@ -1,0 +1,1 @@
+# turbo-hotwire-no-rails
